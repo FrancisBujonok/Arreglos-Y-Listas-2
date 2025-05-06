@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fran\\source\\repos\\Array-1D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-Ejercicios.csproj|c:\\users\\fran\\source\\repos\\array-1d\\array-1d\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-Ejercicios.csproj|solutionrelative:array-1d\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-1D.csproj|c:\\users\\fran\\source\\repos\\array-1d\\array-1d\\array-1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-1D.csproj|solutionrelative:array-1d\\array-1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-1D.csproj|c:\\users\\fran\\source\\repos\\array-1d\\array-1d\\array-2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634999A3-922B-404E-92B6-31B6488405B8}|Array-1D\\Array-1D.csproj|solutionrelative:array-1d\\array-2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listas.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Listas.cs",
+              "RelativeDocumentMoniker": "Array-1D\\Listas.cs",
+              "ToolTip": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Listas.cs",
+              "RelativeToolTip": "Array-1D\\Listas.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:54:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array-2D.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Array-2D.cs",
+              "RelativeDocumentMoniker": "Array-1D\\Array-2D.cs",
+              "ToolTip": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Array-2D.cs",
+              "RelativeToolTip": "Array-1D\\Array-2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:46:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array-1D.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Array-1D.cs",
+              "RelativeDocumentMoniker": "Array-1D\\Array-1D.cs",
+              "ToolTip": "C:\\Users\\Fran\\source\\repos\\Array-1D\\Array-1D\\Array-1D.cs",
+              "RelativeToolTip": "Array-1D\\Array-1D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:57:32.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
